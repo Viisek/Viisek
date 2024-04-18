@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Varun Kakapuri</h1>
 <h3 align="center">A Cybersecurity and Network enthusiast from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/media/9d5b235345e9ba01547e5176a1e285d6.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/hacker2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viisek&label=Profile%20views&color=0e75b6&style=flat" alt="viisek" /> </p>
