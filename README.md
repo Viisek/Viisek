@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/@varun_k_9_11" target="blank"><img src="https://img.shields.io/twitter/follow/@varun_k_9_11?logo=twitter&style=for-the-badge" alt="@varun_k_9_11" /></a> </p>
 
-- 🔭 I’m currently working on **Kashi(a website for my startup)**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Networking Fundamentals, Linux Fundamentals**
+- 🌱 I’m currently learning ** Networking Fundamentals, Linux, shell scripting**
 
 - 👨‍💻 Connect with me on Linkedin [www.linkedin.com/in/varunkakapuri](www.linkedin.com/in/varunkakapuri)
 
