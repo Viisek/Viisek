@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Varun Kakapuri</h1>
-<h3 align="center">A Cybersecurity and Network enthusiast from India.</h3>
+<h3 align="center">A Technical research enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd3MThtNmV1ajh2ZTh0bjFpYjU1OG51eDU0eHdsNmN2bDc0b3JycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 
