@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Deep learning and neural networks**
 
-- 🧑🏻‍💻Follow me on Linkedin [https://www.linkedin.com/in/varun-kakapuri-75247a230/](https://www.linkedin.com/in/varun-kakapuri-75247a230/)
+- 🧑🏻‍💻Follow me on [Linkedin](https://www.linkedin.com/in/varun-kakapuri-75247a230/)
 
 - 💬 Ask me about **Cybersecurity and Networking**
 
 - 📫 How to reach me **varun.kakapuri@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1EOduCKtv-AsDVwsEmSTkVS8QGzwZpNzD/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1hy7MBxYaY6sbWhNvmVjrwAoUXqD94lVE/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Groot.**
 
