@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **varun.kakapuri@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/11Tz_C3yzjk3gwiDX0fZUicOQa7Fxlg7x/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1WfOcd3IEL3DkREr_7AIU_pJojCeFItpQ/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am Groot.**
 
