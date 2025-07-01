@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/@varun_k_9_11" target="blank"><img src="https://img.shields.io/twitter/follow/@varun_k_9_11?logo=twitter&style=for-the-badge" alt="@varun_k_9_11" /></a> </p>
 
 
-- 🔭 I’m currently working on [a Computer vision model for self driving cars](https://github.com/Viisek/CV-SelfDriving-for-laneless-roads)
+- 🔭 I’m currently working at [Scalefusion](https://scalefusion.com/)
 
-- 🌱 I’m currently learning **Linux fundamentals and Bash scripting**
+- 🌱 I’m currently learning **Compliance and Security Operations**
 
-- 🤝 I’m looking for help with **Deep learning and neural networks**
+- 🤝 I’m looking for help with **Deep learning and Generative AI**
 
 - 🧑🏻‍💻Follow me on [Linkedin](https://www.linkedin.com/in/varun-kakapuri-75247a230/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **varun.kakapuri@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1hy7MBxYaY6sbWhNvmVjrwAoUXqD94lVE/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/11Tz_C3yzjk3gwiDX0fZUicOQa7Fxlg7x/view?usp=sharing)
 
 - ⚡ Fun fact **I am Groot.**
 
